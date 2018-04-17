@@ -14,12 +14,12 @@ About us.html -
 
 Contact-US.html -
 	Done 1.Year of experinces background photo for that thing.
-	DoneIf possible change the locarion of the map
+	Done If possible change the locarion of the map
 
 Desktop Responsive-
-	Removing all the unneccessary things from the all the html.
+	Done Removing all the unneccessary things from the all the html.
 
 Mobile Responsive - 
-	Removing all the unneccessary things from the all the html.
+	Done Removing all the unneccessary things from the all the html.
 
 
