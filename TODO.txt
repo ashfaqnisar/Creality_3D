@@ -1,0 +1,25 @@
+Index.html-
+	Done 1.Main title sub description should be written.- Done
+	Done 2.Cant find the Answer background Image should be given.Done
+	Done 3.Remove the sponsors thing from the page of the end .Done
+
+Products.html-
+	Done 1.Main title sub description should be written.
+	Done (But not images is done)2.Categorize the different types of works based on the photo's.
+
+About us.html - 
+	Done 1.Year of Experinces background photo of that thing.
+	NO 2.Different type of the companies that the company is collabed with in china.
+	In Last- 3.Try to write the review thing and the photo of the background and also the 			 reviewer's photo.
+
+Contact-US.html -
+	Done 1.Year of experinces background photo for that thing.
+	DoneIf possible change the locarion of the map
+
+Desktop Responsive-
+	Removing all the unneccessary things from the all the html.
+
+Mobile Responsive - 
+	Removing all the unneccessary things from the all the html.
+
+
