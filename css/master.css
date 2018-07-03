@@ -1,0 +1,24 @@
+
+
+/* FONTS*/
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,300i,400,400i,600,700,700i|Poppins:300,400,500';
+@import '../assets/fonts/font-awesome-4.6.3/css/font-awesome.min.css';
+@import '../assets/fonts/elegant/style.css';
+@import '../assets/fonts/flaticon/flaticon.css';
+
+/* PLUGIN CSS */
+@import '../assets/libs/bootstrap/bootstrap.css';                /* bootstrap */
+@import '../assets/plugins/headers/header.css';                /* header */
+@import '../assets/plugins/headers/yamm.css';                /* header menu */
+@import '../assets/plugins/owl-carousel/assets/owl.carousel.css';                 /* owl slider */
+@import '../assets/plugins/slick/slick.css';                 /* slick slider */
+@import '../assets/plugins/bxslider/jquery.bxslider.css';                        /* bx slider */
+@import '../assets/plugins/magnific-popup/magnific-popup.css';            /* popup windows */
+@import '../assets/plugins/animate/animate.css';                        /* animations */
+@import url('../assets/plugins/pickmeup/pickmeup.css'); /* calendar plugin */
+
+/* MAIN CSS */
+@import 'color.css';
+@import 'theme.css';
+@import 'responsive.css';
+@import "header.css";

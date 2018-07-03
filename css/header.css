@@ -1,0 +1,29 @@
+#header-menu{
+  color: #246bad;
+}
+#header-menu:hover{
+  color: #FF9801;
+}
+
+#sub-menu{
+  color: #246bad;
+  background: #ffffff;
+}
+#sub-menu:hover{
+  color: #FF9801;
+}
+
+#sub-menu-border{
+  background: #ffffff;
+  border: 3px solid #FF9801;
+}
+
+#social-icons{
+  color: #246bad;
+}
+#social-icons:hover{
+  color: #FF9801;
+}
+#header-navbar{
+  padding-bottom: 5px;
+}
